@@ -1,0 +1,15 @@
+'''
+Created on 2016年8月15日
+
+@author: yuanyun.yy
+'''
+testarray = ['1','2','3','4','5']
+testarray.append('6')
+testarray.extend(['7','8'])
+testarray.insert(0, '0')
+print (testarray)
+print (len(testarray))
+mixarray = ['1','shuju',[1,2,3]]
+print (mixarray)
+emptyarray = []
+print (emptyarray)
