@@ -1,9 +1,9 @@
 '''
-Created on 2016�?8�?15�?
+
 
 @author: yuanyun.yy
 '''
-score = int(input("请输入一个分�?"))
+score = int(input("请输入一个分"))
 if score > 90:
     print ("A")
 elif 80 <= score < 90:
@@ -13,4 +13,4 @@ elif 60 <= score < 80:
 elif 0 <= score <60: 
     print ("D")
 else:
-    print ("输入有误�?")
+    print ("输入有误�?")
