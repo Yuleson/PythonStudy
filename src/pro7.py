@@ -1,5 +1,5 @@
 '''
-Created on 2016å¹?8æœ?15æ—?
+Created on 2016å¹´8æœˆ15æ—¥
 
 @author: yuanyun.yy
 '''
@@ -8,7 +8,7 @@ favourite = 'yuanyun'
 for j in favourite:
     print(j,'.')
     
-member =['è¢äº‘æ˜?','ä¸?ä¸?','äº?']
+member =['è¢äº‘','æ€‚æ ·ä¸Š','ç‰¹å¤§å·']
 for each in member:
     print (each,len(each))
 
