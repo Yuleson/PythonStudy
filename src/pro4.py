@@ -1,5 +1,6 @@
 '''
 Created on 2016年8月15日
+
 @author: yuanyun.yy
 '''
 from setuptools.command.build_ext import if_dl
@@ -13,7 +14,11 @@ interval = 0
 
 
 while True:
+<<<<<<< HEAD
     if 用户是否点击了关闭按按钮
+=======
+    if 用户是否点击了关闭按�?
+>>>>>>> aa0123dc3703a35f39f21f1badebaa844de0faeb
                         �?出程�?
     interval +=1
     if interval == 50

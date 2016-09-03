@@ -1,6 +1,7 @@
 '''
 Created on 2016年8月15日
 
+
 @author: yuanyun.yy
 '''
 
@@ -9,6 +10,7 @@ for j in favourite:
     print(j,'.')
     
 member =['袁云','怂样上','特大号']
+member =['qqtg','yuia','sgga']
 for each in member:
     print (each,len(each))
 
