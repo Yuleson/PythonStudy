@@ -13,3 +13,7 @@ print(type(tuple3))
 print(type(tuple4))
 print(8 * (8))
 print(8 * (8,))
+str1 = '      yuanyunn   fogak   '
+str2 = 'aaaaassssbaaaaa'
+print(str1.strip(" "))
+print(str2.strip("a")) # 开头结尾是a的字符消除掉 
