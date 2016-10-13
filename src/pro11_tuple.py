@@ -1,7 +1,6 @@
 '''
 Created on 2016年8月22日
 
-@author: Administrator
 '''
 temp = ('yuanyun','zhangsanfeng','zhaozilong')
 temp = temp[:2] + ('qiaofeng',) + temp[2:]
